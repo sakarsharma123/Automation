@@ -18,12 +18,12 @@
 		<link>
 			<name>ExcelFiles/DataInput.xlsx</name>
 			<type>1</type>
-			<location>/Users/sakar.sharma/Documents/sakar/workspace/RnD2/ExcelFiles/DataInput.xlsx</location>
+			<location>/Users/sakar.sharma/git/Automation2/RnD2/ExcelFiles/DataInput.xlsx</location>
 		</link>
 		<link>
 			<name>ExcelFiles/FrameworkInput.xlsx</name>
 			<type>1</type>
-			<location>/Users/sakar.sharma/Documents/sakar/workspace/RnD2/ExcelFiles/FrameworkInput.xlsx</location>
+			<location>/Users/sakar.sharma/git/Automation2/RnD2/ExcelFiles/FrameworkInput.xlsx</location>
 		</link>
 	</linkedResources>
 </projectDescription>
