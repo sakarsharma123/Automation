@@ -15,7 +15,7 @@ public class ControlReference {
 	}
 	public void setPath(String path) {
 		this.path = path;
-	}
+	} 
 	public String getIdentifierValue() {
 		return identifierValue;
 	}
