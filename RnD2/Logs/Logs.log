@@ -1,0 +1,1123 @@
+2015-11-05 20:24:53 INFO  - Logs file has been initilized
+2015-11-05 20:25:05 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:25:05 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:25:05 INFO  - =================================================
+2015-11-05 20:25:05 INFO  - Test Case Steps Are : 
+2015-11-05 20:25:05 INFO  - =================================================
+2015-11-05 20:25:05 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:25:09 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- sarah.stewart@transwestern.net
+2015-11-05 20:25:13 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:25:29 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:25:36 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:25:43 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:25:47 ERROR - [Ljava.lang.StackTraceElement;@55c9a711
+2015-11-05 20:25:51 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:25:55 ERROR - [Ljava.lang.StackTraceElement;@422760db
+2015-11-05 20:25:59 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:26:32 INFO  - EnterUserDetails || SendText || FirstName :- test_camsbusi
+2015-11-05 20:26:36 INFO  - EnterUserDetails || SendText || SecondName :- test_camsbusi
+2015-11-05 20:26:40 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:26:44 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:26:49 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:26:53 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:26:57 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:27:01 INFO  - EnterUserName || SendText || UserName :- test_camsbusi
+2015-11-05 20:27:05 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:27:12 INFO  - PASS :: New User >> test_camsbusi <<Created
+2015-11-05 20:27:12 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:27:29 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:27:36 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:27:36 INFO  - Current DataInput Result = In-process
+2015-11-05 20:27:36 INFO  - DataInput Result = true
+2015-11-05 20:27:36 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:27:36 INFO  - ===================================================================================================================================
+2015-11-05 20:27:36 INFO  - UserName is :test_camsbusi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:27:36 INFO  - ===================================================================================================================================
+2015-11-05 20:27:48 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:27:48 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:27:48 INFO  - =================================================
+2015-11-05 20:27:48 INFO  - Test Case Steps Are : 
+2015-11-05 20:27:48 INFO  - =================================================
+2015-11-05 20:27:48 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:27:53 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- sarah.stewart@transwestern.net
+2015-11-05 20:27:57 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:28:09 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:28:16 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:28:23 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:28:27 ERROR - [Ljava.lang.StackTraceElement;@5e0fe0c3
+2015-11-05 20:28:31 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:28:35 ERROR - [Ljava.lang.StackTraceElement;@78f06b95
+2015-11-05 20:28:39 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:28:47 INFO  - EnterUserDetails || SendText || FirstName :- test_camsbusi2
+2015-11-05 20:28:51 INFO  - EnterUserDetails || SendText || SecondName :- test_camsbusi2
+2015-11-05 20:28:55 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:28:59 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:29:04 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:29:08 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:29:12 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:29:16 INFO  - EnterUserName || SendText || UserName :- test_camsbusi2
+2015-11-05 20:29:20 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:29:25 INFO  - PASS :: New User >> test_camsbusi2 <<Created
+2015-11-05 20:29:25 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:29:41 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:29:49 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:29:49 INFO  - Current DataInput Result = In-process
+2015-11-05 20:29:49 INFO  - DataInput Result = true
+2015-11-05 20:29:49 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:29:49 INFO  - ===================================================================================================================================
+2015-11-05 20:29:49 INFO  - UserName is :test_camsbusi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:29:49 INFO  - ===================================================================================================================================
+2015-11-05 20:29:51 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:29:51 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:29:51 INFO  - =================================================
+2015-11-05 20:29:51 INFO  - Test Case Steps Are : 
+2015-11-05 20:29:51 INFO  - =================================================
+2015-11-05 20:29:51 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:29:55 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- Cardenas23@live.com
+2015-11-05 20:29:59 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:30:11 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:30:17 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:30:23 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:30:27 ERROR - [Ljava.lang.StackTraceElement;@12f2d9ec
+2015-11-05 20:30:31 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:30:35 ERROR - [Ljava.lang.StackTraceElement;@104a9d47
+2015-11-05 20:30:39 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:30:46 INFO  - EnterUserDetails || SendText || FirstName :- test_camsresi
+2015-11-05 20:30:50 INFO  - EnterUserDetails || SendText || SecondName :- test_camsresi
+2015-11-05 20:30:54 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:30:59 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:31:03 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:31:07 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:31:11 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:31:15 INFO  - EnterUserName || SendText || UserName :- test_camsresi
+2015-11-05 20:31:19 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:31:24 INFO  - PASS :: New User >> test_camsresi <<Created
+2015-11-05 20:31:24 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:31:39 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:31:46 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:31:46 INFO  - Current DataInput Result = In-process
+2015-11-05 20:31:46 INFO  - DataInput Result = true
+2015-11-05 20:31:46 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:31:46 INFO  - ===================================================================================================================================
+2015-11-05 20:31:46 INFO  - UserName is :test_camsresi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:31:46 INFO  - ===================================================================================================================================
+2015-11-05 20:31:48 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:31:48 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:31:48 INFO  - =================================================
+2015-11-05 20:31:48 INFO  - Test Case Steps Are : 
+2015-11-05 20:31:48 INFO  - =================================================
+2015-11-05 20:31:48 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:31:52 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- Cardenas23@live.com
+2015-11-05 20:31:56 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:32:05 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:32:12 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:32:19 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:32:24 ERROR - [Ljava.lang.StackTraceElement;@dc76d78
+2015-11-05 20:32:28 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:32:32 ERROR - [Ljava.lang.StackTraceElement;@76c9c28b
+2015-11-05 20:32:36 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:32:43 INFO  - EnterUserDetails || SendText || FirstName :- test_camsresi2
+2015-11-05 20:32:47 INFO  - EnterUserDetails || SendText || SecondName :- test_camsresi2
+2015-11-05 20:32:51 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:32:55 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:32:59 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:33:03 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:33:07 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:33:11 INFO  - EnterUserName || SendText || UserName :- test_camsresi2
+2015-11-05 20:33:15 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:33:20 INFO  - PASS :: New User >> test_camsresi2 <<Created
+2015-11-05 20:33:20 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:33:34 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:33:41 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:33:41 INFO  - Current DataInput Result = In-process
+2015-11-05 20:33:41 INFO  - DataInput Result = true
+2015-11-05 20:33:41 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:33:41 INFO  - ===================================================================================================================================
+2015-11-05 20:33:41 INFO  - UserName is :test_camsresi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:33:41 INFO  - ===================================================================================================================================
+2015-11-05 20:33:43 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:33:43 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:33:43 INFO  - =================================================
+2015-11-05 20:33:43 INFO  - Test Case Steps Are : 
+2015-11-05 20:33:43 INFO  - =================================================
+2015-11-05 20:33:43 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:33:47 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- KristieC
+2015-11-05 20:33:51 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:33:54 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:34:05 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:34:11 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:34:15 ERROR - [Ljava.lang.StackTraceElement;@7523cde5
+2015-11-05 20:34:19 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:34:23 ERROR - [Ljava.lang.StackTraceElement;@40e554e8
+2015-11-05 20:34:28 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:34:34 INFO  - EnterUserDetails || SendText || FirstName :- test_rcresi
+2015-11-05 20:34:38 INFO  - EnterUserDetails || SendText || SecondName :- test_rcresi
+2015-11-05 20:34:42 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:34:46 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:34:52 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:34:56 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:35:01 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:35:07 INFO  - EnterUserName || SendText || UserName :- test_rcresi
+2015-11-05 20:35:12 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:35:16 INFO  - PASS :: New User >> test_rcresi <<Created
+2015-11-05 20:35:16 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:35:30 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:35:37 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:35:37 INFO  - Current DataInput Result = In-process
+2015-11-05 20:35:37 INFO  - DataInput Result = true
+2015-11-05 20:35:37 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:35:37 INFO  - ===================================================================================================================================
+2015-11-05 20:35:37 INFO  - UserName is :test_rcresi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:35:37 INFO  - ===================================================================================================================================
+2015-11-05 20:35:39 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:35:39 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:35:39 INFO  - =================================================
+2015-11-05 20:35:39 INFO  - Test Case Steps Are : 
+2015-11-05 20:35:39 INFO  - =================================================
+2015-11-05 20:35:39 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:35:43 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- KristieC
+2015-11-05 20:35:47 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:35:50 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:35:58 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:36:07 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:36:11 ERROR - [Ljava.lang.StackTraceElement;@5fda4526
+2015-11-05 20:36:15 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:36:19 ERROR - [Ljava.lang.StackTraceElement;@5d116491
+2015-11-05 20:36:23 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:36:30 INFO  - EnterUserDetails || SendText || FirstName :- test_rcresi2
+2015-11-05 20:36:34 INFO  - EnterUserDetails || SendText || SecondName :- test_rcresi2
+2015-11-05 20:36:38 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:36:42 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:36:46 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:36:51 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:36:55 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:36:59 INFO  - EnterUserName || SendText || UserName :- test_rcresi2
+2015-11-05 20:37:03 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:37:08 INFO  - PASS :: New User >> test_rcresi2 <<Created
+2015-11-05 20:37:08 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:37:22 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:37:29 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:37:29 INFO  - Current DataInput Result = In-process
+2015-11-05 20:37:29 INFO  - DataInput Result = true
+2015-11-05 20:37:29 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:37:29 INFO  - ===================================================================================================================================
+2015-11-05 20:37:29 INFO  - UserName is :test_rcresi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:37:29 INFO  - ===================================================================================================================================
+2015-11-05 20:37:31 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:37:31 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:37:31 INFO  - =================================================
+2015-11-05 20:37:31 INFO  - Test Case Steps Are : 
+2015-11-05 20:37:31 INFO  - =================================================
+2015-11-05 20:37:31 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:37:35 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- mmaag
+2015-11-05 20:37:39 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:37:42 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:38:01 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:38:07 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:38:11 ERROR - [Ljava.lang.StackTraceElement;@3aece3eb
+2015-11-05 20:38:15 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:38:20 ERROR - [Ljava.lang.StackTraceElement;@55724f63
+2015-11-05 20:38:24 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:38:31 INFO  - EnterUserDetails || SendText || FirstName :- test_rccust
+2015-11-05 20:38:35 INFO  - EnterUserDetails || SendText || SecondName :- test_rccust
+2015-11-05 20:38:39 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:38:43 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:38:47 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:38:51 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:38:56 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:39:00 INFO  - EnterUserName || SendText || UserName :- test_rccust
+2015-11-05 20:39:04 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:39:08 INFO  - PASS :: New User >> test_rccust <<Created
+2015-11-05 20:39:08 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:39:27 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:39:34 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:39:34 INFO  - Current DataInput Result = In-process
+2015-11-05 20:39:34 INFO  - DataInput Result = true
+2015-11-05 20:39:34 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:39:34 INFO  - ===================================================================================================================================
+2015-11-05 20:39:34 INFO  - UserName is :test_rccust ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:39:34 INFO  - ===================================================================================================================================
+2015-11-05 20:39:36 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:39:36 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:39:36 INFO  - =================================================
+2015-11-05 20:39:36 INFO  - Test Case Steps Are : 
+2015-11-05 20:39:36 INFO  - =================================================
+2015-11-05 20:39:36 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:39:40 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- mmaag
+2015-11-05 20:39:44 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:39:47 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:40:04 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:40:11 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:40:15 ERROR - [Ljava.lang.StackTraceElement;@1078e8b8
+2015-11-05 20:40:19 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:40:23 ERROR - [Ljava.lang.StackTraceElement;@5378cd43
+2015-11-05 20:40:27 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:40:34 INFO  - EnterUserDetails || SendText || FirstName :- test_rccust2
+2015-11-05 20:40:39 INFO  - EnterUserDetails || SendText || SecondName :- test_rccust2
+2015-11-05 20:40:43 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:40:47 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:40:51 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:40:55 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:40:59 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:41:03 INFO  - EnterUserName || SendText || UserName :- test_rccust2
+2015-11-05 20:41:07 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:41:12 INFO  - PASS :: New User >> test_rccust2 <<Created
+2015-11-05 20:41:12 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:41:30 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:41:36 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:41:36 INFO  - Current DataInput Result = In-process
+2015-11-05 20:41:36 INFO  - DataInput Result = true
+2015-11-05 20:41:37 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:41:37 INFO  - ===================================================================================================================================
+2015-11-05 20:41:37 INFO  - UserName is :test_rccust2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:41:37 INFO  - ===================================================================================================================================
+2015-11-05 20:41:38 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:41:38 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:41:38 INFO  - =================================================
+2015-11-05 20:41:38 INFO  - Test Case Steps Are : 
+2015-11-05 20:41:38 INFO  - =================================================
+2015-11-05 20:41:38 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:41:43 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- carl.rynders@rrins.com
+2015-11-05 20:41:47 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:42:07 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:42:13 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:42:20 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:42:24 ERROR - [Ljava.lang.StackTraceElement;@6b82fc0a
+2015-11-05 20:42:28 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:42:32 ERROR - [Ljava.lang.StackTraceElement;@5fc0dff4
+2015-11-05 20:42:36 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:42:44 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxbusinor
+2015-11-05 20:42:48 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxbusinor
+2015-11-05 20:42:52 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:42:56 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:43:00 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:43:04 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:43:09 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:43:13 INFO  - EnterUserName || SendText || UserName :- test_nuvoxbusinor
+2015-11-05 20:43:17 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:43:22 INFO  - PASS :: New User >> test_nuvoxbusinor <<Created
+2015-11-05 20:43:22 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:43:37 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:43:44 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:43:44 INFO  - Current DataInput Result = In-process
+2015-11-05 20:43:44 INFO  - DataInput Result = true
+2015-11-05 20:43:44 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:43:44 INFO  - ===================================================================================================================================
+2015-11-05 20:43:44 INFO  - UserName is :test_nuvoxbusinor ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:43:44 INFO  - ===================================================================================================================================
+2015-11-05 20:43:46 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:43:46 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:43:46 INFO  - =================================================
+2015-11-05 20:43:46 INFO  - Test Case Steps Are : 
+2015-11-05 20:43:46 INFO  - =================================================
+2015-11-05 20:43:46 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:43:50 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- carl.rynders@rrins.com
+2015-11-05 20:43:55 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:44:10 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:44:17 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:44:25 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:44:29 ERROR - [Ljava.lang.StackTraceElement;@521ccf01
+2015-11-05 20:44:33 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:44:37 ERROR - [Ljava.lang.StackTraceElement;@d42932c
+2015-11-05 20:44:41 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:44:48 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxbusinor2
+2015-11-05 20:44:52 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxbusinor2
+2015-11-05 20:44:56 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:45:00 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:45:04 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:45:08 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:45:13 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:45:17 INFO  - EnterUserName || SendText || UserName :- test_nuvoxbusinor2
+2015-11-05 20:45:21 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:45:25 INFO  - PASS :: New User >> test_nuvoxbusinor2 <<Created
+2015-11-05 20:45:25 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:45:42 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:45:49 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:45:49 INFO  - Current DataInput Result = In-process
+2015-11-05 20:45:49 INFO  - DataInput Result = true
+2015-11-05 20:45:49 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:45:49 INFO  - ===================================================================================================================================
+2015-11-05 20:45:49 INFO  - UserName is :test_nuvoxbusinor2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:45:49 INFO  - ===================================================================================================================================
+2015-11-05 20:45:51 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:45:51 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:45:51 INFO  - =================================================
+2015-11-05 20:45:51 INFO  - Test Case Steps Are : 
+2015-11-05 20:45:51 INFO  - =================================================
+2015-11-05 20:45:51 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:45:55 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- bruad@one.net
+2015-11-05 20:45:59 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:46:12 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:46:19 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:46:26 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:46:30 ERROR - [Ljava.lang.StackTraceElement;@5515cb4
+2015-11-05 20:46:34 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:46:38 ERROR - [Ljava.lang.StackTraceElement;@74f12b9b
+2015-11-05 20:46:42 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:46:49 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxresi_TAS
+2015-11-05 20:46:53 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxresi_TAS
+2015-11-05 20:46:57 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:47:01 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:47:05 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:47:10 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:47:14 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:47:18 INFO  - EnterUserName || SendText || UserName :- test_nuvoxresi_TAS
+2015-11-05 20:47:22 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:47:27 INFO  - PASS :: New User >> test_nuvoxresi_TAS <<Created
+2015-11-05 20:47:27 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:47:43 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:47:50 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:47:50 INFO  - Current DataInput Result = In-process
+2015-11-05 20:47:50 INFO  - DataInput Result = true
+2015-11-05 20:47:50 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:47:50 INFO  - ===================================================================================================================================
+2015-11-05 20:47:50 INFO  - UserName is :test_nuvoxresi_TAS ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:47:50 INFO  - ===================================================================================================================================
+2015-11-05 20:47:52 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:47:52 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:47:52 INFO  - =================================================
+2015-11-05 20:47:52 INFO  - Test Case Steps Are : 
+2015-11-05 20:47:52 INFO  - =================================================
+2015-11-05 20:47:52 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:47:56 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- bruad@one.net
+2015-11-05 20:48:00 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:48:14 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:48:19 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:48:26 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:48:30 ERROR - [Ljava.lang.StackTraceElement;@5b5a7e47
+2015-11-05 20:48:34 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:48:38 ERROR - [Ljava.lang.StackTraceElement;@6654b3a1
+2015-11-05 20:48:42 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:48:49 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxresi_TAS2
+2015-11-05 20:48:53 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxresi_TAS2
+2015-11-05 20:48:57 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:49:02 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:49:06 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:49:10 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:49:14 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:49:18 INFO  - EnterUserName || SendText || UserName :- test_nuvoxresi_TAS2
+2015-11-05 20:49:22 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:49:27 INFO  - PASS :: New User >> test_nuvoxresi_TAS2 <<Created
+2015-11-05 20:49:27 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:49:44 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:49:51 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:49:51 INFO  - Current DataInput Result = In-process
+2015-11-05 20:49:51 INFO  - DataInput Result = true
+2015-11-05 20:49:51 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:49:51 INFO  - ===================================================================================================================================
+2015-11-05 20:49:51 INFO  - UserName is :test_nuvoxresi_TAS2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:49:51 INFO  - ===================================================================================================================================
+2015-11-05 20:49:53 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:49:53 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:49:53 INFO  - =================================================
+2015-11-05 20:49:53 INFO  - Test Case Steps Are : 
+2015-11-05 20:49:53 INFO  - =================================================
+2015-11-05 20:49:53 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:49:57 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- drewflow
+2015-11-05 20:50:02 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:50:14 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:50:20 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:50:26 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:50:30 ERROR - [Ljava.lang.StackTraceElement;@38c07b1d
+2015-11-05 20:50:34 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:50:38 ERROR - [Ljava.lang.StackTraceElement;@7a7ca3bd
+2015-11-05 20:50:42 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:50:51 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxresi
+2015-11-05 20:50:56 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxresi
+2015-11-05 20:51:00 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:51:05 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:51:09 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:51:13 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:51:17 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:51:21 INFO  - EnterUserName || SendText || UserName :- test_nuvoxresi
+2015-11-05 20:51:26 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:51:30 INFO  - PASS :: New User >> test_nuvoxresi <<Created
+2015-11-05 20:51:30 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:51:47 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:51:53 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:51:53 INFO  - Current DataInput Result = In-process
+2015-11-05 20:51:53 INFO  - DataInput Result = true
+2015-11-05 20:51:53 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:51:53 INFO  - ===================================================================================================================================
+2015-11-05 20:51:53 INFO  - UserName is :test_nuvoxresi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:51:53 INFO  - ===================================================================================================================================
+2015-11-05 20:51:55 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:51:55 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:51:55 INFO  - =================================================
+2015-11-05 20:51:55 INFO  - Test Case Steps Are : 
+2015-11-05 20:51:55 INFO  - =================================================
+2015-11-05 20:51:55 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:51:59 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- drewflow
+2015-11-05 20:52:04 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:52:15 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:52:21 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:52:27 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:52:31 ERROR - [Ljava.lang.StackTraceElement;@63144ceb
+2015-11-05 20:52:35 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:52:39 ERROR - [Ljava.lang.StackTraceElement;@6bd7db5
+2015-11-05 20:52:43 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:52:50 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxresi2
+2015-11-05 20:52:54 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxresi2
+2015-11-05 20:52:58 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:53:02 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:53:06 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:53:10 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:53:15 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:53:19 INFO  - EnterUserName || SendText || UserName :- test_nuvoxresi2
+2015-11-05 20:53:23 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:53:27 INFO  - PASS :: New User >> test_nuvoxresi2 <<Created
+2015-11-05 20:53:27 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:53:44 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:53:50 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:53:50 INFO  - Current DataInput Result = In-process
+2015-11-05 20:53:50 INFO  - DataInput Result = true
+2015-11-05 20:53:50 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:53:50 INFO  - ===================================================================================================================================
+2015-11-05 20:53:50 INFO  - UserName is :test_nuvoxresi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:53:50 INFO  - ===================================================================================================================================
+2015-11-05 20:53:53 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:53:53 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:53:53 INFO  - =================================================
+2015-11-05 20:53:53 INFO  - Test Case Steps Are : 
+2015-11-05 20:53:53 INFO  - =================================================
+2015-11-05 20:53:53 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:53:57 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- billr@williamsco.com
+2015-11-05 20:54:01 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:54:15 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:54:25 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:54:32 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:54:36 ERROR - [Ljava.lang.StackTraceElement;@6a625dd9
+2015-11-05 20:54:40 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:54:44 ERROR - [Ljava.lang.StackTraceElement;@af0c79f
+2015-11-05 20:54:48 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:54:55 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxbusi
+2015-11-05 20:54:59 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxbusi
+2015-11-05 20:55:03 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:55:08 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:55:12 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:55:16 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:55:20 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:55:24 INFO  - EnterUserName || SendText || UserName :- test_nuvoxbusi
+2015-11-05 20:55:28 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:55:33 INFO  - PASS :: New User >> test_nuvoxbusi <<Created
+2015-11-05 20:55:33 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:55:50 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:55:57 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:55:57 INFO  - Current DataInput Result = In-process
+2015-11-05 20:55:57 INFO  - DataInput Result = true
+2015-11-05 20:55:57 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:55:57 INFO  - ===================================================================================================================================
+2015-11-05 20:55:57 INFO  - UserName is :test_nuvoxbusi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:55:57 INFO  - ===================================================================================================================================
+2015-11-05 20:55:59 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:55:59 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:55:59 INFO  - =================================================
+2015-11-05 20:55:59 INFO  - Test Case Steps Are : 
+2015-11-05 20:55:59 INFO  - =================================================
+2015-11-05 20:55:59 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:56:03 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- billr@williamsco.com
+2015-11-05 20:56:07 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:56:20 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:56:26 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:56:33 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:56:37 ERROR - [Ljava.lang.StackTraceElement;@4fe67135
+2015-11-05 20:56:41 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:56:45 ERROR - [Ljava.lang.StackTraceElement;@17a80e30
+2015-11-05 20:56:49 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:56:56 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxbusi2
+2015-11-05 20:57:00 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxbusi2
+2015-11-05 20:57:04 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:57:09 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:57:13 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:57:17 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:57:21 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:57:25 INFO  - EnterUserName || SendText || UserName :- test_nuvoxbusi2
+2015-11-05 20:57:29 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:57:34 INFO  - PASS :: New User >> test_nuvoxbusi2 <<Created
+2015-11-05 20:57:34 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:57:50 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 20:57:57 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 20:57:57 INFO  - Current DataInput Result = In-process
+2015-11-05 20:57:57 INFO  - DataInput Result = true
+2015-11-05 20:57:57 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 20:57:57 INFO  - ===================================================================================================================================
+2015-11-05 20:57:57 INFO  - UserName is :test_nuvoxbusi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 20:57:57 INFO  - ===================================================================================================================================
+2015-11-05 20:57:59 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 20:57:59 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 20:57:59 INFO  - =================================================
+2015-11-05 20:57:59 INFO  - Test Case Steps Are : 
+2015-11-05 20:57:59 INFO  - =================================================
+2015-11-05 20:57:59 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:58:04 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- JoAnn61167541
+2015-11-05 20:58:08 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 20:58:22 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:58:30 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:58:37 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:58:41 ERROR - [Ljava.lang.StackTraceElement;@5c0258ab
+2015-11-05 20:58:45 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:58:49 ERROR - [Ljava.lang.StackTraceElement;@5952d70d
+2015-11-05 20:58:53 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 20:59:01 INFO  - EnterUserDetails || SendText || FirstName :- test_global
+2015-11-05 20:59:05 INFO  - EnterUserDetails || SendText || SecondName :- test_global
+2015-11-05 20:59:10 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 20:59:14 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:59:18 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 20:59:22 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 20:59:26 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 20:59:30 INFO  - EnterUserName || SendText || UserName :- test_global
+2015-11-05 20:59:34 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:59:39 INFO  - PASS :: New User >> test_global <<Created
+2015-11-05 20:59:39 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 20:59:55 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:00:02 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:00:02 INFO  - Current DataInput Result = In-process
+2015-11-05 21:00:02 INFO  - DataInput Result = true
+2015-11-05 21:00:02 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:00:02 INFO  - ===================================================================================================================================
+2015-11-05 21:00:02 INFO  - UserName is :test_global ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:00:02 INFO  - ===================================================================================================================================
+2015-11-05 21:00:04 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:00:04 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:00:04 INFO  - =================================================
+2015-11-05 21:00:04 INFO  - Test Case Steps Are : 
+2015-11-05 21:00:04 INFO  - =================================================
+2015-11-05 21:00:04 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:00:08 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- JoAnn61167541
+2015-11-05 21:00:12 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:00:26 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:00:32 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:00:39 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:00:43 ERROR - [Ljava.lang.StackTraceElement;@469994a7
+2015-11-05 21:00:47 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:00:51 ERROR - [Ljava.lang.StackTraceElement;@20c8b3f5
+2015-11-05 21:00:55 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:01:03 INFO  - EnterUserDetails || SendText || FirstName :- test_global2
+2015-11-05 21:01:07 INFO  - EnterUserDetails || SendText || SecondName :- test_global2
+2015-11-05 21:01:11 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:01:15 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:01:19 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:01:23 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:01:27 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:01:32 INFO  - EnterUserName || SendText || UserName :- test_global2
+2015-11-05 21:01:36 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:01:40 INFO  - PASS :: New User >> test_global2 <<Created
+2015-11-05 21:01:40 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:01:57 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:02:04 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:02:04 INFO  - Current DataInput Result = In-process
+2015-11-05 21:02:04 INFO  - DataInput Result = true
+2015-11-05 21:02:04 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:02:04 INFO  - ===================================================================================================================================
+2015-11-05 21:02:04 INFO  - UserName is :test_global2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:02:04 INFO  - ===================================================================================================================================
+2015-11-05 21:02:06 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:02:06 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:02:06 INFO  - =================================================
+2015-11-05 21:02:06 INFO  - Test Case Steps Are : 
+2015-11-05 21:02:06 INFO  - =================================================
+2015-11-05 21:02:06 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:02:10 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- tmercer
+2015-11-05 21:02:14 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:02:17 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:02:30 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:02:37 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:02:41 ERROR - [Ljava.lang.StackTraceElement;@1ca880a4
+2015-11-05 21:02:45 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:02:49 ERROR - [Ljava.lang.StackTraceElement;@c26bb1a
+2015-11-05 21:02:53 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:03:00 INFO  - EnterUserDetails || SendText || FirstName :- test_ns
+2015-11-05 21:03:04 INFO  - EnterUserDetails || SendText || SecondName :- test_ns
+2015-11-05 21:03:08 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:03:12 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:03:16 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:03:20 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:03:24 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:03:28 INFO  - EnterUserName || SendText || UserName :- test_ns
+2015-11-05 21:03:32 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:03:37 INFO  - PASS :: New User >> test_ns <<Created
+2015-11-05 21:03:37 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:03:54 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:04:01 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:04:01 INFO  - Current DataInput Result = In-process
+2015-11-05 21:04:01 INFO  - DataInput Result = true
+2015-11-05 21:04:01 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:04:01 INFO  - ===================================================================================================================================
+2015-11-05 21:04:01 INFO  - UserName is :test_ns ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:04:01 INFO  - ===================================================================================================================================
+2015-11-05 21:04:03 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:04:03 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:04:03 INFO  - =================================================
+2015-11-05 21:04:03 INFO  - Test Case Steps Are : 
+2015-11-05 21:04:03 INFO  - =================================================
+2015-11-05 21:04:03 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:04:07 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- tmercer
+2015-11-05 21:04:11 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:04:14 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:04:25 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:04:31 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:04:35 ERROR - [Ljava.lang.StackTraceElement;@591dd733
+2015-11-05 21:04:39 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:04:43 ERROR - [Ljava.lang.StackTraceElement;@4facf0a2
+2015-11-05 21:04:47 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:04:54 INFO  - EnterUserDetails || SendText || FirstName :- test_ns2
+2015-11-05 21:04:58 INFO  - EnterUserDetails || SendText || SecondName :- test_ns2
+2015-11-05 21:05:02 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:05:06 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:05:10 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:05:14 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:05:18 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:05:22 INFO  - EnterUserName || SendText || UserName :- test_ns2
+2015-11-05 21:05:27 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:05:31 INFO  - PASS :: New User >> test_ns2 <<Created
+2015-11-05 21:05:31 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:05:48 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:05:54 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:05:54 INFO  - Current DataInput Result = In-process
+2015-11-05 21:05:54 INFO  - DataInput Result = true
+2015-11-05 21:05:54 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:05:54 INFO  - ===================================================================================================================================
+2015-11-05 21:05:54 INFO  - UserName is :test_ns2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:05:54 INFO  - ===================================================================================================================================
+2015-11-05 21:05:56 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:05:56 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:05:56 INFO  - =================================================
+2015-11-05 21:05:56 INFO  - Test Case Steps Are : 
+2015-11-05 21:05:56 INFO  - =================================================
+2015-11-05 21:05:56 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:06:00 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- Michael.A.Farzley@windstream.com2
+2015-11-05 21:06:04 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:06:15 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:06:23 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:06:32 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:06:36 ERROR - [Ljava.lang.StackTraceElement;@9368c91
+2015-11-05 21:06:40 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:06:44 ERROR - [Ljava.lang.StackTraceElement;@584bb4c3
+2015-11-05 21:06:48 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:06:56 INFO  - EnterUserDetails || SendText || FirstName :- test_aptisbusi
+2015-11-05 21:07:00 INFO  - EnterUserDetails || SendText || SecondName :- test_aptisbusi
+2015-11-05 21:07:04 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:07:08 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:07:13 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:07:17 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:07:21 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:07:25 INFO  - EnterUserName || SendText || UserName :- test_aptisbusi
+2015-11-05 21:07:29 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:07:34 INFO  - PASS :: New User >> test_aptisbusi <<Created
+2015-11-05 21:07:34 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:07:50 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:07:57 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:07:57 INFO  - Current DataInput Result = In-process
+2015-11-05 21:07:57 INFO  - DataInput Result = true
+2015-11-05 21:07:57 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:07:57 INFO  - ===================================================================================================================================
+2015-11-05 21:07:57 INFO  - UserName is :test_aptisbusi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:07:57 INFO  - ===================================================================================================================================
+2015-11-05 21:07:59 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:07:59 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:07:59 INFO  - =================================================
+2015-11-05 21:07:59 INFO  - Test Case Steps Are : 
+2015-11-05 21:07:59 INFO  - =================================================
+2015-11-05 21:07:59 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:08:03 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- Michael.A.Farzley@windstream.com2
+2015-11-05 21:08:07 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:08:19 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:08:25 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:08:31 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:08:35 ERROR - [Ljava.lang.StackTraceElement;@43d06911
+2015-11-05 21:08:39 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:08:43 ERROR - [Ljava.lang.StackTraceElement;@30a519bf
+2015-11-05 21:08:47 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:08:54 INFO  - EnterUserDetails || SendText || FirstName :- test_aptisbusi2
+2015-11-05 21:08:58 INFO  - EnterUserDetails || SendText || SecondName :- test_aptisbusi2
+2015-11-05 21:09:02 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:09:07 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:09:11 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:09:15 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:09:19 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:09:23 INFO  - EnterUserName || SendText || UserName :- test_aptisbusi2
+2015-11-05 21:09:27 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:09:32 INFO  - PASS :: New User >> test_aptisbusi2 <<Created
+2015-11-05 21:09:32 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:09:48 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:09:55 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:09:55 INFO  - Current DataInput Result = In-process
+2015-11-05 21:09:55 INFO  - DataInput Result = true
+2015-11-05 21:09:55 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:09:55 INFO  - ===================================================================================================================================
+2015-11-05 21:09:55 INFO  - UserName is :test_aptisbusi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:09:55 INFO  - ===================================================================================================================================
+2015-11-05 21:09:58 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:09:58 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:09:58 INFO  - =================================================
+2015-11-05 21:09:58 INFO  - Test Case Steps Are : 
+2015-11-05 21:09:58 INFO  - =================================================
+2015-11-05 21:09:58 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:10:02 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- t44baller@yahoo.com
+2015-11-05 21:10:06 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:10:16 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:10:22 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:10:28 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:10:32 ERROR - [Ljava.lang.StackTraceElement;@7d87242e
+2015-11-05 21:10:36 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:10:40 ERROR - [Ljava.lang.StackTraceElement;@2f980ed9
+2015-11-05 21:10:44 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:10:51 INFO  - EnterUserDetails || SendText || FirstName :- test_aptisresi
+2015-11-05 21:10:55 INFO  - EnterUserDetails || SendText || SecondName :- test_aptisresi
+2015-11-05 21:10:59 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:11:03 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:11:07 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:11:11 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:11:15 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:11:20 INFO  - EnterUserName || SendText || UserName :- test_aptisresi
+2015-11-05 21:11:24 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:11:28 INFO  - PASS :: New User >> test_aptisresi <<Created
+2015-11-05 21:11:28 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:11:42 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:11:49 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:11:49 INFO  - Current DataInput Result = In-process
+2015-11-05 21:11:49 INFO  - DataInput Result = true
+2015-11-05 21:11:50 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:11:50 INFO  - ===================================================================================================================================
+2015-11-05 21:11:50 INFO  - UserName is :test_aptisresi ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:11:50 INFO  - ===================================================================================================================================
+2015-11-05 21:11:51 INFO  - =========================================== Test Cycle = TS_001 Started. ==========================================================
+2015-11-05 21:11:51 INFO  - Test Case Name : CreateNonSalesUser
+2015-11-05 21:11:51 INFO  - =================================================
+2015-11-05 21:11:51 INFO  - Test Case Steps Are : 
+2015-11-05 21:11:51 INFO  - =================================================
+2015-11-05 21:11:51 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:11:56 INFO  - LoginWithNonSalesUser || SendText || Admin_UserName :- t44baller@yahoo.com
+2015-11-05 21:12:00 INFO  - LoginWithNonSalesUser || Click || NA :- null
+2015-11-05 21:12:10 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:12:16 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:12:22 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:12:26 ERROR - [Ljava.lang.StackTraceElement;@2f0fba16
+2015-11-05 21:12:30 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:12:34 ERROR - [Ljava.lang.StackTraceElement;@5ea4d83f
+2015-11-05 21:12:38 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:12:45 INFO  - EnterUserDetails || SendText || FirstName :- test_aptisresi2
+2015-11-05 21:12:50 INFO  - EnterUserDetails || SendText || SecondName :- test_aptisresi2
+2015-11-05 21:12:54 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:12:58 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:13:02 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:13:06 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:13:10 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:13:14 INFO  - EnterUserName || SendText || UserName :- test_aptisresi2
+2015-11-05 21:13:19 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:13:23 INFO  - PASS :: New User >> test_aptisresi2 <<Created
+2015-11-05 21:13:23 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:13:37 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:13:44 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:13:44 INFO  - Current DataInput Result = In-process
+2015-11-05 21:13:44 INFO  - DataInput Result = true
+2015-11-05 21:13:44 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:13:44 INFO  - ===================================================================================================================================
+2015-11-05 21:13:44 INFO  - UserName is :test_aptisresi2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:13:44 INFO  - ===================================================================================================================================
+2015-11-05 21:13:44 INFO  - TS_001 Completed
+2015-11-05 21:13:44 INFO  - =========================================== Test Cycle = TS_001 Finished. =========================================================
+2015-11-05 21:13:54 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:13:54 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:13:54 INFO  - =================================================
+2015-11-05 21:13:54 INFO  - Test Case Steps Are : 
+2015-11-05 21:13:54 INFO  - =================================================
+2015-11-05 21:13:54 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:13:59 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:14:04 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- Subsidium1
+2015-11-05 21:14:08 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:14:10 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:14:30 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:14:39 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:14:46 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:14:50 ERROR - [Ljava.lang.StackTraceElement;@7c7011c4
+2015-11-05 21:14:54 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:14:59 ERROR - [Ljava.lang.StackTraceElement;@58115cba
+2015-11-05 21:15:03 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:15:17 INFO  - EnterUserDetails || SendText || FirstName :- test_sales
+2015-11-05 21:15:21 INFO  - EnterUserDetails || SendText || SecondName :- test_sales
+2015-11-05 21:15:26 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:15:30 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:15:34 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:15:38 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:15:42 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:15:46 INFO  - EnterUserName || SendText || UserName :- test_sales
+2015-11-05 21:15:50 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:15:56 INFO  - PASS :: New User >> test_sales <<Created
+2015-11-05 21:15:56 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:16:12 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:16:19 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:16:19 INFO  - Current DataInput Result = Passed
+2015-11-05 21:16:19 INFO  - DataInput Result = true
+2015-11-05 21:16:19 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:16:19 INFO  - ===================================================================================================================================
+2015-11-05 21:16:19 INFO  - UserName is :test_sales ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:16:19 INFO  - ===================================================================================================================================
+2015-11-05 21:16:20 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:16:20 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:16:20 INFO  - =================================================
+2015-11-05 21:16:20 INFO  - Test Case Steps Are : 
+2015-11-05 21:16:20 INFO  - =================================================
+2015-11-05 21:16:20 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:16:26 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:16:30 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- Subsidium1
+2015-11-05 21:16:34 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:16:37 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:16:49 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:16:55 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:17:02 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:17:06 ERROR - [Ljava.lang.StackTraceElement;@51ac7b56
+2015-11-05 21:17:10 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:17:14 ERROR - [Ljava.lang.StackTraceElement;@4642e349
+2015-11-05 21:17:18 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:17:29 INFO  - EnterUserDetails || SendText || FirstName :- test_sales2
+2015-11-05 21:17:33 INFO  - EnterUserDetails || SendText || SecondName :- test_sales2
+2015-11-05 21:17:37 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:17:41 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:17:45 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:17:49 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:17:53 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:17:58 INFO  - EnterUserName || SendText || UserName :- test_sales2
+2015-11-05 21:18:02 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:18:06 INFO  - PASS :: New User >> test_sales2 <<Created
+2015-11-05 21:18:06 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:18:22 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:18:29 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:18:29 INFO  - Current DataInput Result = Passed
+2015-11-05 21:18:29 INFO  - DataInput Result = true
+2015-11-05 21:18:29 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:18:29 INFO  - ===================================================================================================================================
+2015-11-05 21:18:29 INFO  - UserName is :test_sales2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:18:29 INFO  - ===================================================================================================================================
+2015-11-05 21:18:31 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:18:31 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:18:31 INFO  - =================================================
+2015-11-05 21:18:31 INFO  - Test Case Steps Are : 
+2015-11-05 21:18:31 INFO  - =================================================
+2015-11-05 21:18:31 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:18:35 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:18:40 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- csimpson@telesourceinc.net
+2015-11-05 21:18:44 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:18:55 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:19:02 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:19:09 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:19:18 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:19:22 ERROR - [Ljava.lang.StackTraceElement;@22963050
+2015-11-05 21:19:26 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:19:30 ERROR - [Ljava.lang.StackTraceElement;@5d16f979
+2015-11-05 21:19:34 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:19:44 INFO  - EnterUserDetails || SendText || FirstName :- test_salesmaster
+2015-11-05 21:19:48 INFO  - EnterUserDetails || SendText || SecondName :- test_salesmaster
+2015-11-05 21:19:52 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:19:57 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:20:01 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:20:05 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:20:09 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:20:13 INFO  - EnterUserName || SendText || UserName :- test_salesmaster
+2015-11-05 21:20:17 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:20:22 INFO  - PASS :: New User >> test_salesmaster <<Created
+2015-11-05 21:20:22 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:20:38 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:20:46 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:20:46 INFO  - Current DataInput Result = Passed
+2015-11-05 21:20:46 INFO  - DataInput Result = true
+2015-11-05 21:20:46 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:20:46 INFO  - ===================================================================================================================================
+2015-11-05 21:20:46 INFO  - UserName is :test_salesmaster ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:20:46 INFO  - ===================================================================================================================================
+2015-11-05 21:20:48 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:20:48 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:20:48 INFO  - =================================================
+2015-11-05 21:20:48 INFO  - Test Case Steps Are : 
+2015-11-05 21:20:48 INFO  - =================================================
+2015-11-05 21:20:48 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:20:54 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:20:58 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- csimpson@telesourceinc.net
+2015-11-05 21:21:02 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:21:14 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:21:22 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:21:30 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:21:41 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:21:45 ERROR - [Ljava.lang.StackTraceElement;@7dccbb2d
+2015-11-05 21:21:49 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:21:53 ERROR - [Ljava.lang.StackTraceElement;@3c85f61b
+2015-11-05 21:21:57 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:22:07 INFO  - EnterUserDetails || SendText || FirstName :- test_salesmaster2
+2015-11-05 21:22:12 INFO  - EnterUserDetails || SendText || SecondName :- test_salesmaster2
+2015-11-05 21:22:16 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:22:21 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:22:25 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:22:29 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:22:34 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:22:39 INFO  - EnterUserName || SendText || UserName :- test_salesmaster2
+2015-11-05 21:22:43 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:22:48 INFO  - PASS :: New User >> test_salesmaster2 <<Created
+2015-11-05 21:22:48 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:23:04 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:23:12 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:23:12 INFO  - Current DataInput Result = Passed
+2015-11-05 21:23:12 INFO  - DataInput Result = true
+2015-11-05 21:23:12 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:23:12 INFO  - ===================================================================================================================================
+2015-11-05 21:23:12 INFO  - UserName is :test_salesmaster2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:23:12 INFO  - ===================================================================================================================================
+2015-11-05 21:23:14 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:23:14 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:23:14 INFO  - =================================================
+2015-11-05 21:23:14 INFO  - Test Case Steps Are : 
+2015-11-05 21:23:14 INFO  - =================================================
+2015-11-05 21:23:14 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:23:19 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:23:23 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- ZZ08141
+2015-11-05 21:23:27 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:23:37 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:23:44 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:23:50 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:23:58 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:24:02 ERROR - [Ljava.lang.StackTraceElement;@3750e845
+2015-11-05 21:24:06 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:24:10 ERROR - [Ljava.lang.StackTraceElement;@52c24d0f
+2015-11-05 21:24:14 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:24:21 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxsales
+2015-11-05 21:24:25 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxsales
+2015-11-05 21:24:29 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:24:33 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:24:38 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:24:42 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:24:46 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:24:50 INFO  - EnterUserName || SendText || UserName :- test_nuvoxsales
+2015-11-05 21:24:54 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:24:59 INFO  - PASS :: New User >> test_nuvoxsales <<Created
+2015-11-05 21:24:59 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:25:14 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:25:21 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:25:21 INFO  - Current DataInput Result = Passed
+2015-11-05 21:25:21 INFO  - DataInput Result = true
+2015-11-05 21:25:21 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:25:21 INFO  - ===================================================================================================================================
+2015-11-05 21:25:21 INFO  - UserName is :test_nuvoxsales ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:25:21 INFO  - ===================================================================================================================================
+2015-11-05 21:25:24 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:25:24 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:25:24 INFO  - =================================================
+2015-11-05 21:25:24 INFO  - Test Case Steps Are : 
+2015-11-05 21:25:24 INFO  - =================================================
+2015-11-05 21:25:24 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:25:29 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:25:33 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- ZZ08141
+2015-11-05 21:25:37 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:25:45 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:25:52 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:25:58 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:26:04 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:26:08 ERROR - [Ljava.lang.StackTraceElement;@1cf16710
+2015-11-05 21:26:12 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:26:16 ERROR - [Ljava.lang.StackTraceElement;@7c2db212
+2015-11-05 21:26:21 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:26:27 INFO  - EnterUserDetails || SendText || FirstName :- test_nuvoxsales2
+2015-11-05 21:26:31 INFO  - EnterUserDetails || SendText || SecondName :- test_nuvoxsales2
+2015-11-05 21:26:35 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:26:40 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:26:44 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:26:48 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:26:52 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:26:56 INFO  - EnterUserName || SendText || UserName :- test_nuvoxsales2
+2015-11-05 21:27:00 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:27:05 INFO  - PASS :: New User >> test_nuvoxsales2 <<Created
+2015-11-05 21:27:05 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:27:19 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:27:26 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:27:26 INFO  - Current DataInput Result = Passed
+2015-11-05 21:27:26 INFO  - DataInput Result = true
+2015-11-05 21:27:26 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:27:26 INFO  - ===================================================================================================================================
+2015-11-05 21:27:26 INFO  - UserName is :test_nuvoxsales2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:27:26 INFO  - ===================================================================================================================================
+2015-11-05 21:27:29 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:27:29 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:27:29 INFO  - =================================================
+2015-11-05 21:27:29 INFO  - Test Case Steps Are : 
+2015-11-05 21:27:29 INFO  - =================================================
+2015-11-05 21:27:29 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:27:35 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:27:39 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- robert@perivue.com
+2015-11-05 21:27:43 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:27:55 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:28:02 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:28:09 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:28:13 ERROR - [Ljava.lang.StackTraceElement;@2fbe4a33
+2015-11-05 21:28:18 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:28:22 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:28:31 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:28:38 INFO  - EnterUserDetails || SendText || FirstName :- test_salesreff
+2015-11-05 21:28:42 INFO  - EnterUserDetails || SendText || SecondName :- test_salesreff
+2015-11-05 21:28:47 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:28:51 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:28:55 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:28:59 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:29:03 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:29:07 INFO  - EnterUserName || SendText || UserName :- test_salesreff
+2015-11-05 21:29:11 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:29:16 INFO  - PASS :: New User >> test_salesreff <<Created
+2015-11-05 21:29:16 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:29:32 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:29:39 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:29:39 INFO  - Current DataInput Result = Passed
+2015-11-05 21:29:39 INFO  - DataInput Result = true
+2015-11-05 21:29:39 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:29:39 INFO  - ===================================================================================================================================
+2015-11-05 21:29:39 INFO  - UserName is :test_salesreff ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:29:39 INFO  - ===================================================================================================================================
+2015-11-05 21:29:41 INFO  - =========================================== Test Cycle = TS_002 Started. ==========================================================
+2015-11-05 21:29:41 INFO  - Test Case Name : CreateSalesUser
+2015-11-05 21:29:41 INFO  - =================================================
+2015-11-05 21:29:41 INFO  - Test Case Steps Are : 
+2015-11-05 21:29:41 INFO  - =================================================
+2015-11-05 21:29:41 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:29:47 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:29:51 INFO  - LoginWithSalesUser || SendText || Admin_UserName :- robert@perivue.com
+2015-11-05 21:29:55 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:30:06 INFO  - LoginWithSalesUser || Click || NA :- null
+2015-11-05 21:30:13 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:30:20 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:30:24 ERROR - [Ljava.lang.StackTraceElement;@488dd0ad
+2015-11-05 21:30:28 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:30:32 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:30:41 INFO  - NavigateToCreateUser || Click || NA :- null
+2015-11-05 21:30:48 INFO  - EnterUserDetails || SendText || FirstName :- test_salesreff2
+2015-11-05 21:30:52 INFO  - EnterUserDetails || SendText || SecondName :- test_salesreff2
+2015-11-05 21:30:56 INFO  - EnterUserDetails || SendText || Email :- name@test.com
+2015-11-05 21:31:00 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:31:04 INFO  - EnterUserDetails || SendText || Password :- test1234
+2015-11-05 21:31:09 INFO  - ClickAdminAccountCheckBox || Click || NA :- null
+2015-11-05 21:31:13 INFO  - ClickUseUsernameCheckBox || Click || NA :- null
+2015-11-05 21:31:17 INFO  - EnterUserName || SendText || UserName :- test_salesreff2
+2015-11-05 21:31:21 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:31:25 INFO  - PASS :: New User >> test_salesreff2 <<Created
+2015-11-05 21:31:25 INFO  - ClickToCreateUser || Click || NA :- null
+2015-11-05 21:31:41 INFO  - ClickSignOut || Click || NA :- null
+2015-11-05 21:31:48 INFO  - =========================================== Writing Result In DataInput File. =====================================================
+2015-11-05 21:31:48 INFO  - Current DataInput Result = Passed
+2015-11-05 21:31:48 INFO  - DataInput Result = true
+2015-11-05 21:31:48 INFO  - =========================================== Result DataInput File Completed. ======================================================
+2015-11-05 21:31:48 INFO  - ===================================================================================================================================
+2015-11-05 21:31:48 INFO  - UserName is :test_salesreff2 ||  User Email is: name@test.com || User Password is : test1234
+2015-11-05 21:31:48 INFO  - ===================================================================================================================================
+2015-11-05 21:31:48 INFO  - TS_002 Completed
+2015-11-05 21:31:48 INFO  - =========================================== Test Cycle = TS_002 Finished. =========================================================
+2015-11-05 21:31:56 INFO  - TS_003 Completed
+2015-11-05 21:31:56 INFO  - =========================================== Test Cycle = TS_003 Finished. =========================================================
+2015-11-05 21:32:04 INFO  - Logs file has Written And Emailed
+2015-11-05 21:32:04 INFO  - =========================================== All Test Cycle Completed And Email Of Result/Logs Sent. ===============================
+2015-11-05 21:32:04 INFO  - ===================================================================================================================================
+2015-11-05 21:32:04 INFO  - Number Of Test Cycle Executed 24
+2015-11-05 21:32:04 INFO  - Number Of Test Case Executed 192
+2015-11-05 21:32:04 INFO  - Number Of Test Steps Executed 456
+2015-11-05 21:32:04 INFO  - Number Of Data Executed 24
+2015-11-05 21:32:04 INFO  - ===================================================================================================================================
+2015-11-05 21:32:04 INFO  - ===================================================================================================================================
+2015-11-05 21:32:04 INFO  - Number Of Test Cycle Executed 8
+2015-11-05 21:32:04 INFO  - Number Of Test Case Executed 64
+2015-11-05 21:32:04 INFO  - Number Of Test Steps Executed 168
+2015-11-05 21:32:04 INFO  - Number Of Data Executed 8
+2015-11-05 21:32:04 INFO  - ===================================================================================================================================
