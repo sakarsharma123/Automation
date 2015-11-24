@@ -35,7 +35,7 @@ public class WriteInExcel {
 	}
 	public void updateResult(int rowCounter, boolean status) {
 		try {
-			file = new FileInputStream(new File("/Users/sakar.sharma/Documents/sakar/workspace/RnD2/ExcelFiles/DataInput.xlsx"));
+			file = new FileInputStream(new File("./ExcelFiles/DataInput.xlsx"));
 			workbook = new XSSFWorkbook(file);
 			sheet = workbook.getSheetAt(sheetNo);
 			resultCellNumber = fetchResultCellNumber();
@@ -55,7 +55,7 @@ public class WriteInExcel {
 				cell.setCellValue("Failed");
 			}
 			logger.info("DataInput Result = " +status);
-			FileOutputStream outFile = new FileOutputStream(new File("/Users/sakar.sharma/Documents/sakar/workspace/RnD2/ExcelFiles/DataInput.xlsx"));
+			FileOutputStream outFile = new FileOutputStream(new File("./ExcelFiles/DataInput.xlsx"));
 			workbook.write(outFile);
 			outFile.flush();
 			outFile.close();

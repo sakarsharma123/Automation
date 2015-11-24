@@ -18,8 +18,8 @@ public class ExcelFile {
 	 public static void initialize() {
 		 try {
 			/** Creating Input Stream **/
-			FileInputStream myInput = new FileInputStream("/Users/sakar.sharma/Documents/sakar/workspace/RnD2/ExcelFiles/FrameworkInput.xlsx");
-			FileInputStream myInput2 = new FileInputStream("/Users/sakar.sharma/Documents/sakar/workspace/RnD2/ExcelFiles/DataInput.xlsx");
+			FileInputStream myInput = new FileInputStream("./ExcelFiles/FrameworkInput.xlsx");
+			FileInputStream myInput2 = new FileInputStream("./ExcelFiles/DataInput.xlsx");
 			/** Create a workbook using the File System **/
 			XSSFWorkbook myWorkBook = new XSSFWorkbook(myInput);
 			XSSFWorkbook myWorkBook2 = new XSSFWorkbook(myInput2);
