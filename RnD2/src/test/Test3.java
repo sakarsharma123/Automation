@@ -290,7 +290,7 @@ public class Test3 {
 		logger.info("=========================================== All Test Cycle Completed And Email Of Result/Logs Sent. ===============================");
 		for(Counter counter: counterList){
 			logger.info("===================================================================================================================================");
-			logger.info("Number Of Test Cycle Executed " +cycle.getTestScenario() + counter.getTestCycleCounter());
+			//logger.info("Number Of Test Cycle Executed " +cycle.getTestScenario() + counter.getTestCycleCounter());
 			logger.info("Number Of Test Case Executed "  + counter.getTestCaseCounter());
 			logger.info("Number Of Test Steps Executed " + counter.getTestStepCounter());
 			logger.info("Number Of Data xecuted "        + counter.getDataCounter());
